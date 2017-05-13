@@ -1,0 +1,42 @@
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\Bot Application.dll.config
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\Bot Application.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\Bot Application.pdb
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\Autofac.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\Chronic.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\Microsoft.Bot.Builder.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\Microsoft.Bot.Connector.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\Newtonsoft.Json.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\System.Net.Http.Formatting.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\System.Web.Http.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\System.Web.Http.WebHost.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\Autofac.xml
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\Microsoft.Bot.Builder.xml
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\Microsoft.Bot.Connector.xml
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\Newtonsoft.Json.xml
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\System.Net.Http.Formatting.xml
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\System.Web.Http.xml
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\System.Web.Http.WebHost.xml
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\obj\Debug\Hackathon.csprojResolveAssemblyReference.cache
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\obj\Debug\Bot Application.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\obj\Debug\Bot Application.pdb
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\RestSharp.dll
+c:\users\robots\documents\visual studio 2015\Projects\Hackathon\Hackathon\bin\RestSharp.xml
